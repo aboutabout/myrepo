@@ -1,0 +1,14 @@
+Package: com.25mao.miyou
+Priority: optional
+Section: 微信插件
+Filename: debs/com.25mao.miyou.deb
+Size: 5614392
+MD5sum: d1f1ed4d0e9814aa3436b5758cebf880
+Maintainer: admin@25mao.com
+Architecture: iphoneos-arm
+Version: 3.1-8
+Depends: firmware (>= 5.0), mobilesubstrate
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+
